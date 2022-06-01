@@ -1,5 +1,11 @@
 # @compai/css-gui
 
+## 0.0.91
+
+### Patch Changes
+
+- 76a9a8b: Fix palette swatches/gradient stops
+
 ## 0.0.90
 
 ### Patch Changes
